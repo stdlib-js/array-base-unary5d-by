@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-11)
+## Unreleased (2024-12-24)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`ed5c4cc`](https://github.com/stdlib-js/stdlib/commit/ed5c4cccc06ad98f4de90310bf24a5a373761b43) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`1788e0a`](https://github.com/stdlib-js/stdlib/commit/1788e0a90708cdf7b5be6e1b86b3f5d40093ebab) - **feat:** add `array/base/unary5d-by` [(#3221)](https://github.com/stdlib-js/stdlib/pull/3221) _(by Neeraj Pathak, Athan Reines, stdlib-bot)_
 
 </details>
@@ -46,10 +47,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
