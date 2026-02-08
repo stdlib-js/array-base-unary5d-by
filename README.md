@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import unary5dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unary5d-by@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-unary5d-by/tags). For example,
+
+```javascript
 import unary5dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unary5d-by@v0.1.1-deno/mod.js';
 ```
 
@@ -155,7 +160,7 @@ import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoul
 import filled5dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled5d-by@deno/mod.js';
 import zeros5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros5d@deno/mod.js';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@deno/mod.js';
-import unary5dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unary5d-by@v0.1.1-deno/mod.js';
+import unary5dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unary5d-by@deno/mod.js';
 
 function accessor( v ) {
     // Randomly determine whether a value should be considered "missing":
